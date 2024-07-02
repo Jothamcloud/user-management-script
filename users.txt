@@ -1,0 +1,3 @@
+dave;sudo,dev,www-data
+erin;sudo
+frank;dev,www-data
